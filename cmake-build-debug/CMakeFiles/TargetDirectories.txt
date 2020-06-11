@@ -1,0 +1,3 @@
+D:/TelePhoneNotebook/cmake-build-debug/CMakeFiles/TelePhoneNotebook.dir
+D:/TelePhoneNotebook/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/TelePhoneNotebook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
